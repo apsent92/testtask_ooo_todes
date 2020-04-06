@@ -1,0 +1,15 @@
+# IntellijIdea files
+*.iml
+*.iws
+.idea
+target/
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+log/
+target/
